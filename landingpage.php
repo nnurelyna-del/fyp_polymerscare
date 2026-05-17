@@ -25,15 +25,8 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Arsha
-  * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-  * Updated: Feb 22 2025 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body class="index-page">
@@ -44,41 +37,22 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
-        <h1 class="sitename">Arsha</h1>
+        <h1 class="sitename">POLYMERSCARE</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="#pricing">Pricing</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#hero" class="active">Tentang Kami</a></li>
+          <li><a href="#about">Perkhidmatan</a></li>
+          <li><a href="#services">Cakna Siswa</a></li>
+          <li><a href="#portfolio">Unit Kebajikan</a></li>
+          <li><a href="#team">Soalan Lazim</a></li>
+          <li><a href="#pricing">Hubungi Kami</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="#about">Get Started</a>
+      <a class="btn-getstarted" href="#about">Login</a>
 
     </div>
   </header>
@@ -91,8 +65,8 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
-            <h1>Better Solutions For Your Business</h1>
-            <p>We are team of talented designers making websites with Bootstrap</p>
+            <h1>Sistem Kebajikan Politeknik Mersing Johor</h1>
+            <p></p>
             <div class="d-flex">
               <a href="#about" class="btn-get-started">Get Started</a>
               <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
@@ -107,7 +81,7 @@
     </section><!-- /Hero Section -->
 
     <!-- Clients Section -->
-    <section id="clients" class="clients section light-background">
+    <!--<section id="clients" class="clients section light-background">
 
       <div class="container" data-aos="zoom-in">
 
@@ -149,28 +123,17 @@
               }
             }
           </script>
-          <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/clients-1.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-2.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-3.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-4.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-5.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-6.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-7.webp" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/clients-8.webp" class="img-fluid" alt=""></div>
-          </div>
-        </div>
 
       </div>
 
-    </section><!-- /Clients Section -->
+    </section> /Clients Section -->
 
     <!-- About Section -->
     <section id="about" class="about section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>About Us</h2>
+        <h2>Tentang Kami</h2>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -179,19 +142,21 @@
 
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Berpandukan prinsip bahawa pelajar adalah keutamaan kami, aspek kebajikan pelajar sentiasa menjadi fokus utama di Politeknik Mersing Johor (PMJ).  Jabatan Hal Ehwal Pelajar (JHEP) dipertanggungjawabkan untuk menyelaras dan mengurus segala perkara yang berkaitan dengan kebajikan pelajar sepanjang tempoh pengajian mereka di PMJ.
+            </p>
+            <p>
+                Secara umumnya, pengurusan kebajikan pelajar di bawah seliaan JHEP merangkumi perkara berikut:
             </p>
             <ul>
-              <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Perlindungan insurans/takaful kepada semua pelajar yang berdaftar.</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Pengesahan akuan rawatan bagi urusan rawatan hospital.</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Penjagaan hal ehwal pelajar kurang upaya (OKU)</span></li>
             </ul>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-            <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <p>JHEP berperanan sebagai penghubung penting antara pelajar, pihak pengurusan dan agensi luar dalam usaha memastikan kebajikan dan kesejahteraan pelajar terus terjamin selari dengan aspirasi PMJ sebagai institusi yang prihatin, progresif dan berfokuskan pembangunan holistik pelajar. </p>
+            <!--<a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a> -->
           </div>
 
         </div>
@@ -257,7 +222,7 @@
     </section><!-- /Why Us Section -->
 
     <!-- Skills Section -->
-    <section id="skills" class="skills section">
+    <!--<section id="skills" class="skills section">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -281,28 +246,28 @@
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-              </div><!-- End Skills Item -->
+              </div><
 
               <div class="progress">
                 <span class="skill"><span>CSS</span> <i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-              </div><!-- End Skills Item -->
+              </div>
 
               <div class="progress">
                 <span class="skill"><span>JavaScript</span> <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-              </div><!-- End Skills Item -->
+              </div>
 
               <div class="progress">
                 <span class="skill"><span>Photoshop</span> <i class="val">55%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-              </div><!-- End Skills Item -->
+              </div>
 
             </div>
 
@@ -311,15 +276,15 @@
 
       </div>
 
-    </section><!-- /Skills Section -->
+    </section>< End of section -->
 
     <!-- Services Section -->
     <section id="services" class="services section light-background">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Perkhidmatan</h2>
+        <p>Kami Menyediakan bantuan kebajikan mengikut keperluan pelajar</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -329,26 +294,29 @@
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h2><a href="" class="stretched-link">PBK</a></h2>
+              <h1>Permohonan bagi belajar berkeperluan khas yang memerlukan perkhidmatan khas seperti:</h1>
+              <p>- Bilik PBK di kolej kediaman politeknik</p>
+              <p>- Masa tambahan menjawab peperiksaan/ujian/penilaian.</p>
+              <p>- Memerlukan tulisan yang besar untuk semua bahan nota dan soalan ujian</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="" class="stretched-link">INSURANS</a></h4>
+              <p>Terbuka kepada pelajar yang ingin membuat tuntutan insurans</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+          <!--<div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
               <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
@@ -356,7 +324,7 @@
               <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
-          </div><!-- End Service Item -->
+          </div>-->
 
         </div>
 
@@ -1196,13 +1164,14 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.html" class="d-flex align-items-center">
-            <span class="sitename">Arsha</span>
+            <span class="sitename">POLYMERSCARE</span>
           </a>
           <div class="footer-contact pt-3">
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-            <p><strong>Email:</strong> <span>info@example.com</span></p>
+            <p>Politeknik Mersing Johor,</p>
+            <p>Jalan Nitar, 866800 Mersing, Johor.</p>
+            <p class="mt-3"><strong>Tel:</strong> <span>07-798 0001</span></p>
+            <p class="mt-3"><strong>Faks:</strong> <span>07-798 0002</span></p>
+            <p><strong>Email:</strong> <span>jhep@pmj.edu.my</span></p>
           </div>
         </div>
 
@@ -1241,13 +1210,8 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Arsha</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">POLYMERSCARE</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you've purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> | <a href="https://bootstrapmade.com/tools/">DevTools</a>
       </div>
     </div>
 
